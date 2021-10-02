@@ -19,7 +19,7 @@ Then the note will be removed from your note list.
 
 ## Screenshots
 
-<img src="assets/Screenshot-1.png" alt="app screenshot" > <img src="assets/Screenshot-2.png" alt="app screenshot">
+<img src="https://i.ibb.co/5Tv95Hb/Screenshot-95.png" alt="app screenshot" > <img src="https://i.ibb.co/xhYRcJL/Screenshot-96.png" alt="app screenshot">
 
 ## Demo
 
